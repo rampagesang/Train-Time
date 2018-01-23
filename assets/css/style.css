@@ -1,0 +1,23 @@
+#container {
+	max-width: 1500px;
+	margin: 0px auto;
+	padding: 0px 50px;
+}
+
+h1 {
+	text-align: center;
+}
+
+th {
+	width: 5%;
+	font-weight: bold;
+	margin-right: 10px;
+}
+
+td {
+	width: 5%;
+}
+
+input{
+	width: 100%;
+}
